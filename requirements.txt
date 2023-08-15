@@ -7,6 +7,6 @@ starlette==0.16.0
 passlib[bcrypt]==1.7.4
 os-sys==2.1.1
 pyjwt==2.3.0
-rabbitpy==2.9.2
+rabbitpy==2.0.1
 requests==2.26.0
 datetime==4.4
